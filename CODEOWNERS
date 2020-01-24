@@ -25,6 +25,11 @@
 
 # Luc's files
 /test2/*Luc* @Lucvl
+*Luc* @Lucvl
 
 # Koen's files
 /test2/*Koen* @Koenplessers
+*Koen* @Koenplessers
+
+# Sebastien's files
+*Sebastien* @jardons
